@@ -2,11 +2,11 @@
 MovieDB API Implementation Viper With RXSwift and Alamofire
 
 # POD Usage
-  pod 'RxSwift'
-  pod 'RxCocoa'
+  pod 'RxSwift'\
+  pod 'RxCocoa'\
   pod 'Alamofire'
   
 # FEATURES:
-Showing movies List.
-Pagination
+Showing movies List\
+Pagination\
 Detail Movies
